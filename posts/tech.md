@@ -35,6 +35,3 @@ Cognitive technology is in the same vein as machine learning and virtual reality
 ## How it’s affecting industries: 
 Although cognitive technologies have a broad range of applications, Deloitte predicts that the industry sector most affected by this trend initially will be the software sector with 95% of enterprise software companies projected to adopt these technologies by 2020.
 
-With emerging technologies changing professional industries including banking, eCommerce, healthcare and education, staying up to date on the latest trends will give you a better understanding of your chosen industry and make you a more competitive candidate. Best of all, this knowledge might open up new doors within your field and others.
-
-.
